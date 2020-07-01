@@ -1,0 +1,130 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+img{
+    width: 100%;
+}
+.aboutme-right {
+    width: 500px;
+    margin: 40px 85px;
+}
+
+.aboutme-left {
+    width: 476px;
+    float: right;
+    margin-top: -244px;
+    margin-right: 100px;
+}
+.biograpdi_right {
+    width: 500px;
+    margin-left: 82px;
+}
+a.botton {
+    background:linear-gradient(75deg,#ea5095,#eb4a6e);
+    padding: 13px 35px;
+    border-radius: 5px;
+}
+
+section.about {
+    height: 538px;
+    background: url(img/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+section.biodata {
+    height: 720px;
+    background: url('img/biography-bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.biograpdi_right img {
+    margin-top: 72px;
+}
+.biograpdi_life {
+    width: 500px;
+    float: right;
+    margin-top: -525px;
+    margin-right: 125px;
+}
+section.my-work {
+    height: 500px;
+    background: url('img/latest-work-bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.work {
+    font-size: 25px;
+    text-align: center;
+    color: #5f5af3;
+}
+.letwst_work img {
+    width: 326px;
+    margin: 34px;
+}
+
+.letwst_work {
+    margin-left: 85px;
+}
+section.clints {
+    height: 500px;
+    background: url('img/footer-bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.clints_say {
+    font-size: 26px;
+    text-align: center;
+    margin-top: 55px;
+}
+
+.clint_data h3 {
+    font-size: 17px;
+}
+
+.clint_data {
+    width: 557px;
+    margin: auto;
+    text-align: center;
+}
+
+.clint_data p {
+    font-size: 15px;
+    color: #4c4c4c;
+}
+
+.clint_data h4 {
+    font-size: 10px;
+    margin-top: -5px;
+}
+
+.visit-me {
+    width: 500px;
+    margin: auto;
+    text-align: center;
+    margin-top: 65px;
+    background:linear-gradient(75deg,#ea5095,#eb4a6e);
+    padding: 24px 10px;
+    border-radius: 5px;
+    color: white;
+}
+
+.visit-me p {
+    font-size: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+footer {
+    text-align: center;
+    margin: 0px 10px 20px;
+    color: #ddd;
+}
+.aboutme-right p {
+    margin-bottom: 35px;
+}
+.biograpdi_life p {
+    margin-bottom: 35px;
+}
